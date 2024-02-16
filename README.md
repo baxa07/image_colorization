@@ -1,4 +1,4 @@
-IMAGE COLORIZATION
+#IMAGE COLORIZATION
 
 Transform grayscale images into vibrant colored versions with our deep learning model. This project utilizes a Convolutional Neural Network (CNN) trained on a diverse dataset to bring new life to old photos.
 
